@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "roll": "101",
+      "name": "shardha jagtap",
+      "marks": "89",
+      "city": "Bhum",
+      "id": 0
+    },
+    {
+      "roll": "102",
+      "name": "nikita sarode",
+      "marks": "98",
+      "city": "Karanja",
+      "id": 1
+    },
+    {
+      "roll": "103",
+      "name": "rani sarode",
+      "marks": "89",
+      "city": "karanja(lad)",
+      "id": 2
+    }
+  ]
+}
